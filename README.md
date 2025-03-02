@@ -1,5 +1,5 @@
 # STM32-PIR-Motion-Sensor
-This is a very simple code you can run on your STM32 microcontroller to detect motion using the HC-SR501 PIR sensor. The full video tutorial is available on YouTube: 
+This is a very simple code you can run on your STM32 microcontroller to detect motion using the HC-SR501 PIR sensor. The full video tutorial is available on YouTube: https://youtu.be/Q-OrCamcmyg
 
     /* Private includes ----------------------------------------------------------*/
     /* USER CODE BEGIN Includes */
